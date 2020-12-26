@@ -1,0 +1,4 @@
+# Project exclude paths
+/character-api/target/
+/character-gen/target/
+/runner/target/
